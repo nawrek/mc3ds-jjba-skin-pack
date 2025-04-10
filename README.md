@@ -1,10 +1,10 @@
 # JJBA Skin Pack
 JJBA Skin Pack for Minecraft: New Nintendo 3DS Edition, including your favorite characters from 1st to 6th part of the manga/anime.
 
-# Overview
+## Overview
 This skin pack includes 25 of fan favorite skins (grabbed straight from NameMC) from JoJo's Bizzare Adventure manga/anime. These skins replace all of the ones from the Biome Settlers 1 pack (and Steve skin became Speedwagon).
 
-# Skin List:
+## Skin List:
 - Part 1 - Phantom Blood
   - Jonathan Joestar
   - Robert E. O. Speedwagon
